@@ -17,9 +17,9 @@
                 "Datos": [
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 1",
-                        "Parametro": "Día 1 (Marzo)",
-                        "Valor": 23,
+                        "Periodo": "Día 31",
+                        "Parametro": "Día 31 (Enero)",
+                        "Valor": 1,
                         "Estado": null,
                         "Notas": null
                     },
@@ -34,24 +34,8 @@
                     {
                         "Agno": 2020,
                         "Periodo": "Día 2",
-                        "Parametro": "Día 2 (Marzo)",
-                        "Valor": 46,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 2",
                         "Parametro": "Día 2 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 3",
-                        "Parametro": "Día 3 (Marzo)",
-                        "Valor": 31,
                         "Estado": null,
                         "Notas": null
                     },
@@ -73,25 +57,9 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 4",
-                        "Parametro": "Día 4 (Marzo)",
-                        "Valor": 48,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 5",
                         "Parametro": "Día 5 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 5",
-                        "Parametro": "Día 5 (Marzo)",
-                        "Valor": 39,
                         "Estado": null,
                         "Notas": null
                     },
@@ -105,14 +73,6 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 6",
-                        "Parametro": "Día 6 (Marzo)",
-                        "Valor": 128,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 7",
                         "Parametro": "Día 7 (Febrero)",
                         "Valor": 0,
@@ -121,33 +81,9 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 7",
-                        "Parametro": "Día 7 (Marzo)",
-                        "Valor": 65,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 8",
                         "Parametro": "Día 8 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 8",
-                        "Parametro": "Día 8 (Marzo)",
-                        "Valor": 159,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 9",
-                        "Parametro": "Día 9 (Marzo)",
-                        "Valor": 410,
                         "Estado": null,
                         "Notas": null
                     },
@@ -162,24 +98,8 @@
                     {
                         "Agno": 2020,
                         "Periodo": "Día 10",
-                        "Parametro": "Día 10 (Marzo)",
-                        "Valor": 623,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 10",
                         "Parametro": "Día 10 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 11",
-                        "Parametro": "Día 11 (Marzo)",
-                        "Valor": 380,
                         "Estado": null,
                         "Notas": null
                     },
@@ -201,25 +121,9 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 12",
-                        "Parametro": "Día 12 (Marzo)",
-                        "Valor": 966,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 13",
                         "Parametro": "Día 13 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 13",
-                        "Parametro": "Día 13 (Marzo)",
-                        "Valor": 1241,
                         "Estado": null,
                         "Notas": null
                     },
@@ -233,14 +137,6 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 14",
-                        "Parametro": "Día 14 (Marzo)",
-                        "Valor": 1544,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 15",
                         "Parametro": "Día 15 (Febrero)",
                         "Valor": 0,
@@ -249,33 +145,9 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 15",
-                        "Parametro": "Día 15 (Marzo)",
-                        "Valor": 2000,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 16",
                         "Parametro": "Día 16 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 16",
-                        "Parametro": "Día 16 (Marzo)",
-                        "Valor": 1398,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 17",
-                        "Parametro": "Día 17 (Marzo)",
-                        "Valor": 2027,
                         "Estado": null,
                         "Notas": null
                     },
@@ -290,24 +162,8 @@
                     {
                         "Agno": 2020,
                         "Periodo": "Día 18",
-                        "Parametro": "Día 18 (Marzo)",
-                        "Valor": 2538,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 18",
                         "Parametro": "Día 18 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 19",
-                        "Parametro": "Día 19 (Marzo)",
-                        "Valor": 3431,
                         "Estado": null,
                         "Notas": null
                     },
@@ -329,14 +185,6 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 20",
-                        "Parametro": "Día 20 (Marzo)",
-                        "Valor": 2833,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 21",
                         "Parametro": "Día 21 (Febrero)",
                         "Valor": 0,
@@ -345,25 +193,9 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 21",
-                        "Parametro": "Día 21 (Marzo)",
-                        "Valor": 4946,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
                         "Periodo": "Día 22",
                         "Parametro": "Día 22 (Febrero)",
                         "Valor": 0,
-                        "Estado": null,
-                        "Notas": null
-                    },
-                    {
-                        "Agno": 2020,
-                        "Periodo": "Día 22",
-                        "Parametro": "Día 22 (Marzo)",
-                        "Valor": 3646,
                         "Estado": null,
                         "Notas": null
                     },
@@ -425,9 +257,185 @@
                     },
                     {
                         "Agno": 2020,
-                        "Periodo": "Día 31",
-                        "Parametro": "Día 31 (Enero)",
-                        "Valor": 1,
+                        "Periodo": "Día 1",
+                        "Parametro": "Día 1 (Marzo)",
+                        "Valor": 23,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2",
+                        "Parametro": "Día 2 (Marzo)",
+                        "Valor": 46,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3",
+                        "Parametro": "Día 3 (Marzo)",
+                        "Valor": 31,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4",
+                        "Parametro": "Día 4 (Marzo)",
+                        "Valor": 48,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5",
+                        "Parametro": "Día 5 (Marzo)",
+                        "Valor": 39,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6",
+                        "Parametro": "Día 6 (Marzo)",
+                        "Valor": 128,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7",
+                        "Parametro": "Día 7 (Marzo)",
+                        "Valor": 65,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8",
+                        "Parametro": "Día 8 (Marzo)",
+                        "Valor": 159,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9",
+                        "Parametro": "Día 9 (Marzo)",
+                        "Valor": 410,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10",
+                        "Parametro": "Día 10 (Marzo)",
+                        "Valor": 623,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11",
+                        "Parametro": "Día 11 (Marzo)",
+                        "Valor": 380,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12",
+                        "Parametro": "Día 12 (Marzo)",
+                        "Valor": 966,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13",
+                        "Parametro": "Día 13 (Marzo)",
+                        "Valor": 1241,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14",
+                        "Parametro": "Día 14 (Marzo)",
+                        "Valor": 1544,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15",
+                        "Parametro": "Día 15 (Marzo)",
+                        "Valor": 2000,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16",
+                        "Parametro": "Día 16 (Marzo)",
+                        "Valor": 1398,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17",
+                        "Parametro": "Día 17 (Marzo)",
+                        "Valor": 2027,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18",
+                        "Parametro": "Día 18 (Marzo)",
+                        "Valor": 2538,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19",
+                        "Parametro": "Día 19 (Marzo)",
+                        "Valor": 3431,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20",
+                        "Parametro": "Día 20 (Marzo)",
+                        "Valor": 2833,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21",
+                        "Parametro": "Día 21 (Marzo)",
+                        "Valor": 4946,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22",
+                        "Parametro": "Día 22 (Marzo)",
+                        "Valor": 3646,
+                        "Estado": null,
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23",
+                        "Parametro": "Día 23 (Marzo)",
+                        "Valor": 4517,
                         "Estado": null,
                         "Notas": null
                     }
