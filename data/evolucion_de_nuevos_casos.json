@@ -1,0 +1,230 @@
+{
+    "Id": "ebb8e9f0-2c01-4090-bc03-569a348f45dc",
+    "Url": "www.epdata.es/evolucion-nuevos-casos-diarios-comunidades-autonomas-coronavirus/ebb8e9f0-2c01-4090-bc03-569a348f45dc/madrid/304",
+    "Titulo": "Evolución de nuevos casos de coronavirus en Comunidad de Madrid﻿",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Coronavirus a nivel diario - Variación absoluta de Número de casos en lo que va de año con respecto al día anterior para Madrid como comunidad autónoma",
+                "SonDatosNumericos": true,
+                "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                "Clasificacion": null,
+                "Unidad": "Número de casos en lo que va de año",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 27",
+                        "Parametro": "Día 27 (Febrero)",
+                        "Valor": 2,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 28",
+                        "Parametro": "Día 28 (Febrero)",
+                        "Valor": 1,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 29",
+                        "Parametro": "Día 29 (Febrero)",
+                        "Valor": 5,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 1",
+                        "Parametro": "Día 1 (Marzo)",
+                        "Valor": 4,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 2",
+                        "Parametro": "Día 2 (Marzo)",
+                        "Valor": 18,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 3",
+                        "Parametro": "Día 3 (Marzo)",
+                        "Valor": 17,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 4",
+                        "Parametro": "Día 4 (Marzo)",
+                        "Valor": 21,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 5",
+                        "Parametro": "Día 5 (Marzo)",
+                        "Valor": 20,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 6",
+                        "Parametro": "Día 6 (Marzo)",
+                        "Valor": 47,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 7",
+                        "Parametro": "Día 7 (Marzo)",
+                        "Valor": 37,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 8",
+                        "Parametro": "Día 8 (Marzo)",
+                        "Valor": 28,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 9",
+                        "Parametro": "Día 9 (Marzo)",
+                        "Valor": 375,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 10",
+                        "Parametro": "Día 10 (Marzo)",
+                        "Valor": 205,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 11",
+                        "Parametro": "Día 11 (Marzo)",
+                        "Valor": 242,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 12",
+                        "Parametro": "Día 12 (Marzo)",
+                        "Valor": 364,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 13",
+                        "Parametro": "Día 13 (Marzo)",
+                        "Valor": 602,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 14",
+                        "Parametro": "Día 14 (Marzo)",
+                        "Valor": 950,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 15",
+                        "Parametro": "Día 15 (Marzo)",
+                        "Valor": 604,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 16",
+                        "Parametro": "Día 16 (Marzo)",
+                        "Valor": 621,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 17",
+                        "Parametro": "Día 17 (Marzo)",
+                        "Valor": 706,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 18",
+                        "Parametro": "Día 18 (Marzo)",
+                        "Valor": 766,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 19",
+                        "Parametro": "Día 19 (Marzo)",
+                        "Valor": 1140,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 20",
+                        "Parametro": "Día 20 (Marzo)",
+                        "Valor": 388,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 21",
+                        "Parametro": "Día 21 (Marzo)",
+                        "Valor": 1756,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 22",
+                        "Parametro": "Día 22 (Marzo)",
+                        "Valor": 781,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Día 23",
+                        "Parametro": "Día 23 (Marzo)",
+                        "Valor": 873,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
