@@ -1,0 +1,370 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,215,"ESP","Spain",1,"Andalucía",1,"Almería",1,"n.a. (15)","Comarca","Comarca",NA,NA
+2,215,"ESP","Spain",1,"Andalucía",1,"Almería",2,"n.a. (16)","Comarca","Comarca",NA,NA
+3,215,"ESP","Spain",1,"Andalucía",1,"Almería",3,"n.a. (17)","Comarca","Comarca",NA,NA
+4,215,"ESP","Spain",1,"Andalucía",1,"Almería",4,"n.a. (18)","Comarca","Comarca",NA,NA
+5,215,"ESP","Spain",1,"Andalucía",1,"Almería",5,"n.a. (19)","Comarca","Comarca",NA,NA
+6,215,"ESP","Spain",1,"Andalucía",1,"Almería",6,"n.a. (20)","Comarca","Comarca",NA,NA
+7,215,"ESP","Spain",1,"Andalucía",1,"Almería",7,"n.a. (21)","Comarca","Comarca",NA,NA
+8,215,"ESP","Spain",1,"Andalucía",1,"Almería",8,"n.a. (22)","Comarca","Comarca",NA,NA
+9,215,"ESP","Spain",1,"Andalucía",2,"Cádiz",9,"Bahía de Cádiz","Comarca","Comarca",NA,NA
+10,215,"ESP","Spain",1,"Andalucía",2,"Cádiz",10,"Campiña de Jerez","Comarca","Comarca",NA,NA
+11,215,"ESP","Spain",1,"Andalucía",2,"Cádiz",11,"Campo de Gibraltar","Comarca","Comarca",NA,NA
+12,215,"ESP","Spain",1,"Andalucía",2,"Cádiz",12,"Costa Noroeste","Comarca","Comarca",NA,NA
+13,215,"ESP","Spain",1,"Andalucía",2,"Cádiz",13,"La Janda","Comarca","Comarca",NA,NA
+14,215,"ESP","Spain",1,"Andalucía",2,"Cádiz",14,"Sierra de Cádiz","Comarca","Comarca",NA,NA
+15,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",15,"Campiña Sur","Comarca","Comarca",NA,NA
+16,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",16,"n.a. (86)","Comarca","Comarca",NA,NA
+17,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",17,"n.a. (87)","Comarca","Comarca",NA,NA
+18,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",18,"n.a. (88)","Comarca","Comarca",NA,NA
+19,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",19,"n.a. (89)","Comarca","Comarca",NA,NA
+20,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",20,"n.a. (90)","Comarca","Comarca",NA,NA
+21,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",21,"n.a. (91)","Comarca","Comarca",NA,NA
+22,215,"ESP","Spain",1,"Andalucía",3,"Córdoba",22,"n.a. (92)","Comarca","Comarca",NA,NA
+23,215,"ESP","Spain",1,"Andalucía",4,"Granada",23,"n.a. (109)","Comarca","Comarca",NA,NA
+24,215,"ESP","Spain",1,"Andalucía",4,"Granada",24,"n.a. (110)","Comarca","Comarca",NA,NA
+25,215,"ESP","Spain",1,"Andalucía",4,"Granada",25,"n.a. (111)","Comarca","Comarca",NA,NA
+26,215,"ESP","Spain",1,"Andalucía",4,"Granada",26,"n.a. (112)","Comarca","Comarca",NA,NA
+27,215,"ESP","Spain",1,"Andalucía",4,"Granada",27,"n.a. (113)","Comarca","Comarca",NA,NA
+28,215,"ESP","Spain",1,"Andalucía",4,"Granada",28,"n.a. (114)","Comarca","Comarca",NA,NA
+29,215,"ESP","Spain",1,"Andalucía",4,"Granada",29,"n.a. (115)","Comarca","Comarca",NA,NA
+30,215,"ESP","Spain",1,"Andalucía",4,"Granada",30,"n.a. (116)","Comarca","Comarca",NA,NA
+31,215,"ESP","Spain",1,"Andalucía",4,"Granada",31,"n.a. (117)","Comarca","Comarca",NA,NA
+32,215,"ESP","Spain",1,"Andalucía",4,"Granada",32,"n.a. (118)","Comarca","Comarca",NA,NA
+33,215,"ESP","Spain",1,"Andalucía",5,"Huelva",33,"n.a. (133)","Comarca","Comarca",NA,NA
+34,215,"ESP","Spain",1,"Andalucía",5,"Huelva",34,"n.a. (134)","Comarca","Comarca",NA,NA
+35,215,"ESP","Spain",1,"Andalucía",5,"Huelva",35,"n.a. (135)","Comarca","Comarca",NA,NA
+36,215,"ESP","Spain",1,"Andalucía",5,"Huelva",36,"n.a. (136)","Comarca","Comarca",NA,NA
+37,215,"ESP","Spain",1,"Andalucía",5,"Huelva",37,"n.a. (137)","Comarca","Comarca",NA,NA
+38,215,"ESP","Spain",1,"Andalucía",5,"Huelva",38,"n.a. (138)","Comarca","Comarca",NA,NA
+39,215,"ESP","Spain",1,"Andalucía",6,"Jaén",39,"Área metropolitana de Jaén","Comarca","Comarca",NA,NA
+40,215,"ESP","Spain",1,"Andalucía",6,"Jaén",40,"Alto Guadalquivir","Comarca","Comarca",NA,NA
+41,215,"ESP","Spain",1,"Andalucía",6,"Jaén",41,"Campiña","Comarca","Comarca",NA,NA
+42,215,"ESP","Spain",1,"Andalucía",6,"Jaén",42,"El Condado","Comarca","Comarca",NA,NA
+43,215,"ESP","Spain",1,"Andalucía",6,"Jaén",43,"Lalomay Lasvillas","Comarca","Comarca",NA,NA
+44,215,"ESP","Spain",1,"Andalucía",6,"Jaén",44,"Sierra De Segura","Comarca","Comarca",NA,NA
+45,215,"ESP","Spain",1,"Andalucía",6,"Jaén",45,"Sierra Magina","Comarca","Comarca",NA,NA
+46,215,"ESP","Spain",1,"Andalucía",6,"Jaén",46,"Sierra Norte","Comarca","Comarca",NA,NA
+47,215,"ESP","Spain",1,"Andalucía",6,"Jaén",47,"Sierra Sur","Comarca","Comarca",NA,NA
+48,215,"ESP","Spain",1,"Andalucía",7,"Málaga",48,"n.a. (181)","Comarca","Comarca",NA,NA
+49,215,"ESP","Spain",1,"Andalucía",7,"Málaga",49,"n.a. (182)","Comarca","Comarca",NA,NA
+50,215,"ESP","Spain",1,"Andalucía",7,"Málaga",50,"n.a. (183)","Comarca","Comarca",NA,NA
+51,215,"ESP","Spain",1,"Andalucía",7,"Málaga",51,"n.a. (184)","Comarca","Comarca",NA,NA
+52,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",52,"n.a. (226)","Comarca","Comarca",NA,NA
+53,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",53,"n.a. (227)","Comarca","Comarca",NA,NA
+54,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",54,"n.a. (228)","Comarca","Comarca",NA,NA
+55,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",55,"n.a. (229)","Comarca","Comarca",NA,NA
+56,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",56,"n.a. (230)","Comarca","Comarca",NA,NA
+57,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",57,"n.a. (231)","Comarca","Comarca",NA,NA
+58,215,"ESP","Spain",1,"Andalucía",8,"Sevilla",58,"n.a. (232)","Comarca","Comarca",NA,NA
+59,215,"ESP","Spain",2,"Aragón",9,"Huesca",59,"n.a. (125)","Comarca","Comarca",NA,NA
+60,215,"ESP","Spain",2,"Aragón",9,"Huesca",60,"n.a. (126)","Comarca","Comarca",NA,NA
+61,215,"ESP","Spain",2,"Aragón",9,"Huesca",61,"n.a. (127)","Comarca","Comarca",NA,NA
+62,215,"ESP","Spain",2,"Aragón",9,"Huesca",62,"n.a. (128)","Comarca","Comarca",NA,NA
+63,215,"ESP","Spain",2,"Aragón",9,"Huesca",63,"n.a. (129)","Comarca","Comarca",NA,NA
+64,215,"ESP","Spain",2,"Aragón",9,"Huesca",64,"n.a. (130)","Comarca","Comarca",NA,NA
+65,215,"ESP","Spain",2,"Aragón",9,"Huesca",65,"n.a. (131)","Comarca","Comarca",NA,NA
+66,215,"ESP","Spain",2,"Aragón",9,"Huesca",66,"n.a. (132)","Comarca","Comarca",NA,NA
+67,215,"ESP","Spain",2,"Aragón",10,"Teruel",67,"n.a. (248)","Comarca","Comarca",NA,NA
+68,215,"ESP","Spain",2,"Aragón",10,"Teruel",68,"n.a. (249)","Comarca","Comarca",NA,NA
+69,215,"ESP","Spain",2,"Aragón",10,"Teruel",69,"n.a. (250)","Comarca","Comarca",NA,NA
+70,215,"ESP","Spain",2,"Aragón",10,"Teruel",70,"n.a. (251)","Comarca","Comarca",NA,NA
+71,215,"ESP","Spain",2,"Aragón",10,"Teruel",71,"n.a. (252)","Comarca","Comarca",NA,NA
+72,215,"ESP","Spain",2,"Aragón",10,"Teruel",72,"n.a. (253)","Comarca","Comarca",NA,NA
+73,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",73,"n.a. (274)","Comarca","Comarca",NA,NA
+74,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",74,"n.a. (275)","Comarca","Comarca",NA,NA
+75,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",75,"n.a. (276)","Comarca","Comarca",NA,NA
+76,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",76,"n.a. (277)","Comarca","Comarca",NA,NA
+77,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",77,"n.a. (278)","Comarca","Comarca",NA,NA
+78,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",78,"n.a. (279)","Comarca","Comarca",NA,NA
+79,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",79,"n.a. (280)","Comarca","Comarca",NA,NA
+80,215,"ESP","Spain",2,"Aragón",11,"Zaragoza",80,"n.a. (281)","Comarca","Comarca",NA,NA
+81,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",81,"Asón-Agüera","Comarca","Comarca",NA,NA
+82,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",82,"Besaya","Comarca","Comarca",NA,NA
+83,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",83,"Campoo-Los Valles","Comarca","Comarca",NA,NA
+84,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",84,"Comarca de Santander","Comarca","Comarca",NA,NA
+85,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",85,"Costa Occidental","Comarca","Comarca",NA,NA
+86,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",86,"Costa Oriental","Comarca","Comarca",NA,NA
+87,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",87,"Liébana","Comarca","Comarca",NA,NA
+88,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",88,"n.a. (196)","Comarca","Comarca",NA,NA
+89,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",89,"n.a. (222)","Comarca","Comarca",NA,NA
+90,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",90,"Pas-Miera","Comarca","Comarca",NA,NA
+91,215,"ESP","Spain",3,"Cantabria",12,"Cantabria",91,"Trasmiera","Comarca","Comarca",NA,NA
+92,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",92,"n.a. (10)","Comarca","Comarca",NA,NA
+93,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",93,"n.a. (11)","Comarca","Comarca",NA,NA
+94,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",94,"n.a. (12)","Comarca","Comarca",NA,NA
+95,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",95,"n.a. (13)","Comarca","Comarca",NA,NA
+96,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",96,"n.a. (14)","Comarca","Comarca",NA,NA
+97,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",97,"n.a. (8)","Comarca","Comarca",NA,NA
+98,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete",98,"n.a. (9)","Comarca","Comarca",NA,NA
+99,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",99,"n.a. (79)","Comarca","Comarca",NA,NA
+100,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",100,"n.a. (80)","Comarca","Comarca",NA,NA
+101,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",101,"n.a. (81)","Comarca","Comarca",NA,NA
+102,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",102,"n.a. (82)","Comarca","Comarca",NA,NA
+103,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",103,"n.a. (83)","Comarca","Comarca",NA,NA
+104,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",104,"n.a. (84)","Comarca","Comarca",NA,NA
+105,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real",105,"n.a. (85)","Comarca","Comarca",NA,NA
+106,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",106,"n.a. (93)","Comarca","Comarca",NA,NA
+107,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",107,"n.a. (94)","Comarca","Comarca",NA,NA
+108,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",108,"n.a. (95)","Comarca","Comarca",NA,NA
+109,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",109,"n.a. (96)","Comarca","Comarca",NA,NA
+110,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",110,"n.a. (97)","Comarca","Comarca",NA,NA
+111,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",111,"n.a. (98)","Comarca","Comarca",NA,NA
+112,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca",112,"n.a. (99)","Comarca","Comarca",NA,NA
+113,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara",113,"n.a. (119)","Comarca","Comarca",NA,NA
+114,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara",114,"n.a. (120)","Comarca","Comarca",NA,NA
+115,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara",115,"n.a. (121)","Comarca","Comarca",NA,NA
+116,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara",116,"n.a. (122)","Comarca","Comarca",NA,NA
+117,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara",117,"n.a. (123)","Comarca","Comarca",NA,NA
+118,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara",118,"n.a. (176)","Comarca","Comarca",NA,NA
+119,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",119,"n.a. (254)","Comarca","Comarca",NA,NA
+120,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",120,"n.a. (255)","Comarca","Comarca",NA,NA
+121,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",121,"n.a. (256)","Comarca","Comarca",NA,NA
+122,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",122,"n.a. (257)","Comarca","Comarca",NA,NA
+123,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",123,"n.a. (258)","Comarca","Comarca",NA,NA
+124,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",124,"n.a. (259)","Comarca","Comarca",NA,NA
+125,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo",125,"n.a. (260)","Comarca","Comarca",NA,NA
+126,215,"ESP","Spain",5,"Castilla y León",18,"Ávila",126,"n.a. (23)","Comarca","Comarca",NA,NA
+127,215,"ESP","Spain",5,"Castilla y León",18,"Ávila",127,"n.a. (24)","Comarca","Comarca",NA,NA
+128,215,"ESP","Spain",5,"Castilla y León",18,"Ávila",128,"n.a. (25)","Comarca","Comarca",NA,NA
+129,215,"ESP","Spain",5,"Castilla y León",18,"Ávila",129,"n.a. (26)","Comarca","Comarca",NA,NA
+130,215,"ESP","Spain",5,"Castilla y León",18,"Ávila",130,"n.a. (27)","Comarca","Comarca",NA,NA
+131,215,"ESP","Spain",5,"Castilla y León",18,"Ávila",131,"n.a. (28)","Comarca","Comarca",NA,NA
+132,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",132,"n.a. (202)","Comarca","Comarca",NA,NA
+133,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",133,"n.a. (60)","Comarca","Comarca",NA,NA
+134,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",134,"n.a. (61)","Comarca","Comarca",NA,NA
+135,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",135,"n.a. (62)","Comarca","Comarca",NA,NA
+136,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",136,"n.a. (63)","Comarca","Comarca",NA,NA
+137,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",137,"n.a. (64)","Comarca","Comarca",NA,NA
+138,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",138,"n.a. (65)","Comarca","Comarca",NA,NA
+139,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",139,"n.a. (66)","Comarca","Comarca",NA,NA
+140,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",140,"n.a. (67)","Comarca","Comarca",NA,NA
+141,215,"ESP","Spain",5,"Castilla y León",19,"Burgos",141,"n.a. (68)","Comarca","Comarca",NA,NA
+142,215,"ESP","Spain",5,"Castilla y León",20,"León",142,"n.a. (148)","Comarca","Comarca",NA,NA
+143,215,"ESP","Spain",5,"Castilla y León",20,"León",143,"n.a. (149)","Comarca","Comarca",NA,NA
+144,215,"ESP","Spain",5,"Castilla y León",20,"León",144,"n.a. (150)","Comarca","Comarca",NA,NA
+145,215,"ESP","Spain",5,"Castilla y León",20,"León",145,"n.a. (151)","Comarca","Comarca",NA,NA
+146,215,"ESP","Spain",5,"Castilla y León",20,"León",146,"n.a. (152)","Comarca","Comarca",NA,NA
+147,215,"ESP","Spain",5,"Castilla y León",20,"León",147,"n.a. (153)","Comarca","Comarca",NA,NA
+148,215,"ESP","Spain",5,"Castilla y León",20,"León",148,"n.a. (154)","Comarca","Comarca",NA,NA
+149,215,"ESP","Spain",5,"Castilla y León",20,"León",149,"n.a. (155)","Comarca","Comarca",NA,NA
+150,215,"ESP","Spain",5,"Castilla y León",20,"León",150,"n.a. (156)","Comarca","Comarca",NA,NA
+151,215,"ESP","Spain",5,"Castilla y León",20,"León",151,"n.a. (157)","Comarca","Comarca",NA,NA
+152,215,"ESP","Spain",5,"Castilla y León",20,"León",152,"n.a. (158)","Comarca","Comarca",NA,NA
+153,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",153,"n.a. (200)","Comarca","Comarca",NA,NA
+154,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",154,"n.a. (201)","Comarca","Comarca",NA,NA
+155,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",155,"n.a. (202)","Comarca","Comarca",NA,NA
+156,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",156,"n.a. (203)","Comarca","Comarca",NA,NA
+157,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",157,"n.a. (204)","Comarca","Comarca",NA,NA
+158,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",158,"n.a. (205)","Comarca","Comarca",NA,NA
+159,215,"ESP","Spain",5,"Castilla y León",21,"Palencia",159,"n.a. (206)","Comarca","Comarca",NA,NA
+160,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",160,"n.a. (212)","Comarca","Comarca",NA,NA
+161,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",161,"n.a. (213)","Comarca","Comarca",NA,NA
+162,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",162,"n.a. (214)","Comarca","Comarca",NA,NA
+163,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",163,"n.a. (215)","Comarca","Comarca",NA,NA
+164,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",164,"n.a. (216)","Comarca","Comarca",NA,NA
+165,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",165,"n.a. (217)","Comarca","Comarca",NA,NA
+166,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",166,"n.a. (218)","Comarca","Comarca",NA,NA
+167,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",167,"n.a. (219)","Comarca","Comarca",NA,NA
+168,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca",168,"n.a. (220)","Comarca","Comarca",NA,NA
+169,215,"ESP","Spain",5,"Castilla y León",23,"Segovia",169,"n.a. (223)","Comarca","Comarca",NA,NA
+170,215,"ESP","Spain",5,"Castilla y León",23,"Segovia",170,"n.a. (224)","Comarca","Comarca",NA,NA
+171,215,"ESP","Spain",5,"Castilla y León",23,"Segovia",171,"n.a. (225)","Comarca","Comarca",NA,NA
+172,215,"ESP","Spain",5,"Castilla y León",24,"Soria",172,"n.a. (233)","Comarca","Comarca",NA,NA
+173,215,"ESP","Spain",5,"Castilla y León",24,"Soria",173,"n.a. (234)","Comarca","Comarca",NA,NA
+174,215,"ESP","Spain",5,"Castilla y León",24,"Soria",174,"n.a. (235)","Comarca","Comarca",NA,NA
+175,215,"ESP","Spain",5,"Castilla y León",24,"Soria",175,"n.a. (236)","Comarca","Comarca",NA,NA
+176,215,"ESP","Spain",5,"Castilla y León",24,"Soria",176,"n.a. (237)","Comarca","Comarca",NA,NA
+177,215,"ESP","Spain",5,"Castilla y León",24,"Soria",177,"n.a. (238)","Comarca","Comarca",NA,NA
+178,215,"ESP","Spain",5,"Castilla y León",24,"Soria",178,"n.a. (239)","Comarca","Comarca",NA,NA
+179,215,"ESP","Spain",5,"Castilla y León",24,"Soria",179,"n.a. (65)","Comarca","Comarca",NA,NA
+180,215,"ESP","Spain",5,"Castilla y León",25,"Valladolid",180,"n.a. (263)","Comarca","Comarca",NA,NA
+181,215,"ESP","Spain",5,"Castilla y León",25,"Valladolid",181,"n.a. (264)","Comarca","Comarca",NA,NA
+182,215,"ESP","Spain",5,"Castilla y León",25,"Valladolid",182,"n.a. (265)","Comarca","Comarca",NA,NA
+183,215,"ESP","Spain",5,"Castilla y León",25,"Valladolid",183,"n.a. (266)","Comarca","Comarca",NA,NA
+184,215,"ESP","Spain",5,"Castilla y León",25,"Valladolid",184,"n.a. (267)","Comarca","Comarca",NA,NA
+185,215,"ESP","Spain",5,"Castilla y León",26,"Zamora",185,"n.a. (268)","Comarca","Comarca",NA,NA
+186,215,"ESP","Spain",5,"Castilla y León",26,"Zamora",186,"n.a. (269)","Comarca","Comarca",NA,NA
+187,215,"ESP","Spain",5,"Castilla y León",26,"Zamora",187,"n.a. (270)","Comarca","Comarca",NA,NA
+188,215,"ESP","Spain",5,"Castilla y León",26,"Zamora",188,"n.a. (271)","Comarca","Comarca",NA,NA
+189,215,"ESP","Spain",5,"Castilla y León",26,"Zamora",189,"n.a. (272)","Comarca","Comarca",NA,NA
+190,215,"ESP","Spain",5,"Castilla y León",26,"Zamora",190,"n.a. (273)","Comarca","Comarca",NA,NA
+191,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",191,"n.a. (162)","Comarca","Comarca",NA,NA
+192,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",192,"n.a. (164)","Comarca","Comarca",NA,NA
+193,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",193,"n.a. (29)","Comarca","Comarca",NA,NA
+194,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",194,"n.a. (30)","Comarca","Comarca",NA,NA
+195,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",195,"n.a. (31)","Comarca","Comarca",NA,NA
+196,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",196,"n.a. (32)","Comarca","Comarca",NA,NA
+197,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",197,"n.a. (33)","Comarca","Comarca",NA,NA
+198,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",198,"n.a. (34)","Comarca","Comarca",NA,NA
+199,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",199,"n.a. (35)","Comarca","Comarca",NA,NA
+200,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",200,"n.a. (36)","Comarca","Comarca",NA,NA
+201,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",201,"n.a. (37)","Comarca","Comarca",NA,NA
+202,215,"ESP","Spain",6,"Cataluña",27,"Barcelona",202,"n.a. (38)","Comarca","Comarca",NA,NA
+203,215,"ESP","Spain",6,"Cataluña",28,"Girona",203,"n.a. (101)","Comarca","Comarca",NA,NA
+204,215,"ESP","Spain",6,"Cataluña",28,"Girona",204,"n.a. (102)","Comarca","Comarca",NA,NA
+205,215,"ESP","Spain",6,"Cataluña",28,"Girona",205,"n.a. (103)","Comarca","Comarca",NA,NA
+206,215,"ESP","Spain",6,"Cataluña",28,"Girona",206,"n.a. (104)","Comarca","Comarca",NA,NA
+207,215,"ESP","Spain",6,"Cataluña",28,"Girona",207,"n.a. (105)","Comarca","Comarca",NA,NA
+208,215,"ESP","Spain",6,"Cataluña",28,"Girona",208,"n.a. (106)","Comarca","Comarca",NA,NA
+209,215,"ESP","Spain",6,"Cataluña",28,"Girona",209,"n.a. (107)","Comarca","Comarca",NA,NA
+210,215,"ESP","Spain",6,"Cataluña",28,"Girona",210,"n.a. (34)","Comarca","Comarca",NA,NA
+211,215,"ESP","Spain",6,"Cataluña",29,"Lleida",211,"n.a. (159)","Comarca","Comarca",NA,NA
+212,215,"ESP","Spain",6,"Cataluña",29,"Lleida",212,"n.a. (160)","Comarca","Comarca",NA,NA
+213,215,"ESP","Spain",6,"Cataluña",29,"Lleida",213,"n.a. (161)","Comarca","Comarca",NA,NA
+214,215,"ESP","Spain",6,"Cataluña",29,"Lleida",214,"n.a. (162)","Comarca","Comarca",NA,NA
+215,215,"ESP","Spain",6,"Cataluña",29,"Lleida",215,"n.a. (163)","Comarca","Comarca",NA,NA
+216,215,"ESP","Spain",6,"Cataluña",29,"Lleida",216,"n.a. (164)","Comarca","Comarca",NA,NA
+217,215,"ESP","Spain",6,"Cataluña",29,"Lleida",217,"n.a. (165)","Comarca","Comarca",NA,NA
+218,215,"ESP","Spain",6,"Cataluña",29,"Lleida",218,"n.a. (166)","Comarca","Comarca",NA,NA
+219,215,"ESP","Spain",6,"Cataluña",29,"Lleida",219,"n.a. (167)","Comarca","Comarca",NA,NA
+220,215,"ESP","Spain",6,"Cataluña",29,"Lleida",220,"n.a. (168)","Comarca","Comarca",NA,NA
+221,215,"ESP","Spain",6,"Cataluña",29,"Lleida",221,"n.a. (30)","Comarca","Comarca",NA,NA
+222,215,"ESP","Spain",6,"Cataluña",29,"Lleida",222,"n.a. (35)","Comarca","Comarca",NA,NA
+223,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",223,"n.a. (240)","Comarca","Comarca",NA,NA
+224,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",224,"n.a. (241)","Comarca","Comarca",NA,NA
+225,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",225,"n.a. (242)","Comarca","Comarca",NA,NA
+226,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",226,"n.a. (243)","Comarca","Comarca",NA,NA
+227,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",227,"n.a. (244)","Comarca","Comarca",NA,NA
+228,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",228,"n.a. (245)","Comarca","Comarca",NA,NA
+229,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",229,"n.a. (246)","Comarca","Comarca",NA,NA
+230,215,"ESP","Spain",6,"Cataluña",30,"Tarragona",230,"n.a. (247)","Comarca","Comarca",NA,NA
+231,215,"ESP","Spain",7,"Ceuta y Melilla",31,"Ceuta",231,"n.a. (100)","Comarca","Comarca",NA,NA
+232,215,"ESP","Spain",7,"Ceuta y Melilla",32,"Melilla",232,"n.a. (100)","Comarca","Comarca",NA,NA
+233,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid",233,"n.a. (175)","Comarca","Comarca",NA,NA
+234,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid",234,"n.a. (176)","Comarca","Comarca",NA,NA
+235,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid",235,"n.a. (177)","Comarca","Comarca",NA,NA
+236,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid",236,"n.a. (178)","Comarca","Comarca",NA,NA
+237,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid",237,"n.a. (179)","Comarca","Comarca",NA,NA
+238,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid",238,"n.a. (180)","Comarca","Comarca",NA,NA
+239,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",239,"n.a. (185)","Comarca","Comarca",NA,NA
+240,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",240,"n.a. (186)","Comarca","Comarca",NA,NA
+241,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",241,"n.a. (187)","Comarca","Comarca",NA,NA
+242,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",242,"n.a. (188)","Comarca","Comarca",NA,NA
+243,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",243,"n.a. (189)","Comarca","Comarca",NA,NA
+244,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",244,"n.a. (190)","Comarca","Comarca",NA,NA
+245,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",245,"n.a. (191)","Comarca","Comarca",NA,NA
+246,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",246,"n.a. (192)","Comarca","Comarca",NA,NA
+247,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra",247,"n.a. (193)","Comarca","Comarca",NA,NA
+248,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",248,"Alacanti","Comarca","Comarca",NA,NA
+249,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",249,"Alcoia","Comarca","Comarca",NA,NA
+250,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",250,"Alt Vinalopo","Comarca","Comarca",NA,NA
+251,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",251,"Baix Segura","Comarca","Comarca",NA,NA
+252,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",252,"Comtat","Comarca","Comarca",NA,NA
+253,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",253,"Marina Alta","Comarca","Comarca",NA,NA
+254,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",254,"Marina Baixa","Comarca","Comarca",NA,NA
+255,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",255,"Vinalopo Mitja","Comarca","Comarca",NA,NA
+256,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante",256,"Vinalopo","Comarca","Comarca",NA,NA
+257,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",257,"Alcalaten","Comarca","Comarca",NA,NA
+258,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",258,"Alt Millars","Comarca","Comarca",NA,NA
+259,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",259,"Alt Palancia","Comarca","Comarca",NA,NA
+260,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",260,"Alta Maestrat","Comarca","Comarca",NA,NA
+261,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",261,"Baix Maestrat","Comarca","Comarca",NA,NA
+262,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",262,"n.a. (211)","Comarca","Comarca",NA,NA
+263,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",263,"Plana Alta","Comarca","Comarca",NA,NA
+264,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón",264,"Plana Baixa","Comarca","Comarca",NA,NA
+265,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",265,"Camp de Morvedre","Comarca","Comarca",NA,NA
+266,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",266,"Camp de Túria","Comarca","Comarca",NA,NA
+267,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",267,"Canal de Navarres","Comarca","Comarca",NA,NA
+268,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",268,"Ciutat de Valencia","Comarca","Comarca",NA,NA
+269,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",269,"Costera","Comarca","Comarca",NA,NA
+270,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",270,"Foia de Bunyol","Comarca","Comarca",NA,NA
+271,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",271,"Horta Nord","Comarca","Comarca",NA,NA
+272,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",272,"Horta Oest","Comarca","Comarca",NA,NA
+273,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",273,"Horta Sud Ciutat de Valencia","Comarca","Comarca",NA,NA
+274,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",274,"Horta Sud","Comarca","Comarca",NA,NA
+275,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",275,"n.a. (221)","Comarca","Comarca",NA,NA
+276,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",276,"Requena-Utiel","Comarca","Comarca",NA,NA
+277,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",277,"Ribera Alta","Comarca","Comarca",NA,NA
+278,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",278,"Ribera Baixa","Comarca","Comarca",NA,NA
+279,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",279,"Rincón de Ademuz","Comarca","Comarca",NA,NA
+280,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",280,"Serranos","Comarca","Comarca",NA,NA
+281,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",281,"Vall d'Albaida","Comarca","Comarca",NA,NA
+282,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia",282,"Vall de Confrents","Comarca","Comarca",NA,NA
+283,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",283,"n.a. (39)","Comarca","Comarca",NA,NA
+284,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",284,"n.a. (40)","Comarca","Comarca",NA,NA
+285,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",285,"n.a. (41)","Comarca","Comarca",NA,NA
+286,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",286,"n.a. (42)","Comarca","Comarca",NA,NA
+287,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",287,"n.a. (43)","Comarca","Comarca",NA,NA
+288,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",288,"n.a. (44)","Comarca","Comarca",NA,NA
+289,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",289,"n.a. (45)","Comarca","Comarca",NA,NA
+290,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",290,"n.a. (46)","Comarca","Comarca",NA,NA
+291,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",291,"n.a. (47)","Comarca","Comarca",NA,NA
+292,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",292,"n.a. (48)","Comarca","Comarca",NA,NA
+293,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",293,"n.a. (49)","Comarca","Comarca",NA,NA
+294,215,"ESP","Spain",11,"Extremadura",38,"Badajoz",294,"n.a. (50)","Comarca","Comarca",NA,NA
+295,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",295,"n.a. (69)","Comarca","Comarca",NA,NA
+296,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",296,"n.a. (70)","Comarca","Comarca",NA,NA
+297,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",297,"n.a. (71)","Comarca","Comarca",NA,NA
+298,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",298,"n.a. (72)","Comarca","Comarca",NA,NA
+299,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",299,"n.a. (73)","Comarca","Comarca",NA,NA
+300,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",300,"n.a. (74)","Comarca","Comarca",NA,NA
+301,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",301,"n.a. (75)","Comarca","Comarca",NA,NA
+302,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",302,"n.a. (76)","Comarca","Comarca",NA,NA
+303,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",303,"n.a. (77)","Comarca","Comarca",NA,NA
+304,215,"ESP","Spain",11,"Extremadura",39,"Cáceres",304,"n.a. (78)","Comarca","Comarca",NA,NA
+305,215,"ESP","Spain",12,"Galicia",40,"A Coruña",305,"n.a. (145)","Comarca","Comarca",NA,NA
+306,215,"ESP","Spain",12,"Galicia",40,"A Coruña",306,"n.a. (146)","Comarca","Comarca",NA,NA
+307,215,"ESP","Spain",12,"Galicia",40,"A Coruña",307,"n.a. (147)","Comarca","Comarca",NA,NA
+308,215,"ESP","Spain",12,"Galicia",41,"Lugo",308,"n.a. (169)","Comarca","Comarca",NA,NA
+309,215,"ESP","Spain",12,"Galicia",41,"Lugo",309,"n.a. (170)","Comarca","Comarca",NA,NA
+310,215,"ESP","Spain",12,"Galicia",41,"Lugo",310,"n.a. (171)","Comarca","Comarca",NA,NA
+311,215,"ESP","Spain",12,"Galicia",41,"Lugo",311,"n.a. (172)","Comarca","Comarca",NA,NA
+312,215,"ESP","Spain",12,"Galicia",41,"Lugo",312,"n.a. (173)","Comarca","Comarca",NA,NA
+313,215,"ESP","Spain",12,"Galicia",41,"Lugo",313,"n.a. (174)","Comarca","Comarca",NA,NA
+314,215,"ESP","Spain",12,"Galicia",42,"Ourense",314,"n.a. (197)","Comarca","Comarca",NA,NA
+315,215,"ESP","Spain",12,"Galicia",42,"Ourense",315,"n.a. (198)","Comarca","Comarca",NA,NA
+316,215,"ESP","Spain",12,"Galicia",42,"Ourense",316,"n.a. (199)","Comarca","Comarca",NA,NA
+317,215,"ESP","Spain",12,"Galicia",43,"Pontevedra",317,"n.a. (207)","Comarca","Comarca",NA,NA
+318,215,"ESP","Spain",12,"Galicia",43,"Pontevedra",318,"n.a. (208)","Comarca","Comarca",NA,NA
+319,215,"ESP","Spain",12,"Galicia",43,"Pontevedra",319,"n.a. (209)","Comarca","Comarca",NA,NA
+320,215,"ESP","Spain",12,"Galicia",43,"Pontevedra",320,"n.a. (210)","Comarca","Comarca",NA,NA
+321,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",321,"n.a. (51)","Comarca","Comarca",NA,NA
+322,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",322,"n.a. (52)","Comarca","Comarca",NA,NA
+323,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",323,"n.a. (53)","Comarca","Comarca",NA,NA
+324,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",324,"n.a. (54)","Comarca","Comarca",NA,NA
+325,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",325,"n.a. (55)","Comarca","Comarca",NA,NA
+326,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",326,"n.a. (56)","Comarca","Comarca",NA,NA
+327,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",327,"n.a. (57)","Comarca","Comarca",NA,NA
+328,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",328,"n.a. (58)","Comarca","Comarca",NA,NA
+329,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares",329,"n.a. (59)","Comarca","Comarca",NA,NA
+330,215,"ESP","Spain",14,"Islas Canarias",45,"Las Palmas",330,"n.a. (144)","Comarca","Comarca",NA,NA
+331,215,"ESP","Spain",14,"Islas Canarias",46,"Santa Cruz de Tenerife",331,"n.a. (144)","Comarca","Comarca",NA,NA
+332,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",332,"Anguiano","Comarca","Comarca",NA,NA
+333,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",333,"Arnedo","Comarca","Comarca",NA,NA
+334,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",334,"n.a. (139)","Comarca","Comarca",NA,NA
+335,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",335,"n.a. (140)","Comarca","Comarca",NA,NA
+336,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",336,"n.a. (141)","Comarca","Comarca",NA,NA
+337,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",337,"n.a. (142)","Comarca","Comarca",NA,NA
+338,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",338,"n.a. (143)","Comarca","Comarca",NA,NA
+339,215,"ESP","Spain",15,"La Rioja",47,"La Rioja",339,"n.a. (65)","Comarca","Comarca",NA,NA
+340,215,"ESP","Spain",16,"País Vasco",48,"Álava",340,"n.a. (1)","Comarca","Comarca",NA,NA
+341,215,"ESP","Spain",16,"País Vasco",48,"Álava",341,"n.a. (2)","Comarca","Comarca",NA,NA
+342,215,"ESP","Spain",16,"País Vasco",48,"Álava",342,"n.a. (3)","Comarca","Comarca",NA,NA
+343,215,"ESP","Spain",16,"País Vasco",48,"Álava",343,"n.a. (4)","Comarca","Comarca",NA,NA
+344,215,"ESP","Spain",16,"País Vasco",48,"Álava",344,"n.a. (5)","Comarca","Comarca",NA,NA
+345,215,"ESP","Spain",16,"País Vasco",48,"Álava",345,"n.a. (6)","Comarca","Comarca",NA,NA
+346,215,"ESP","Spain",16,"País Vasco",48,"Álava",346,"n.a. (7)","Comarca","Comarca",NA,NA
+347,215,"ESP","Spain",16,"País Vasco",49,"Guipúzcoa",347,"n.a. (124)","Comarca","Comarca",NA,NA
+348,215,"ESP","Spain",16,"País Vasco",50,"Vizcaya",348,"n.a. (261)","Comarca","Comarca",NA,NA
+349,215,"ESP","Spain",16,"País Vasco",50,"Vizcaya",349,"n.a. (262)","Comarca","Comarca",NA,NA
+350,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",350,"Avilés","Comarca","Comarca",NA,NA
+351,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",351,"Caudal","Comarca","Comarca",NA,NA
+352,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",352,"Eo-Navia","Comarca","Comarca",NA,NA
+353,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",353,"n.a. (108)","Comarca","Comarca",NA,NA
+354,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",354,"n.a. (194)","Comarca","Comarca",NA,NA
+355,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",355,"n.a. (195)","Comarca","Comarca",NA,NA
+356,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",356,"Oriente","Comarca","Comarca",NA,NA
+357,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias",357,"Oviedo","Comarca","Comarca",NA,NA
+358,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",358,"Altiplano","Comarca","Comarca",NA,NA
+359,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",359,"Alto Guadalentin","Comarca","Comarca",NA,NA
+360,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",360,"Bajo Guadalentín","Comarca","Comarca",NA,NA
+361,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",361,"Campo de Cartagena","Comarca","Comarca",NA,NA
+362,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",362,"Huera de Murcia","Comarca","Comarca",NA,NA
+363,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",363,"Mar Menor","Comarca","Comarca",NA,NA
+364,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",364,"Noroeste","Comarca","Comarca",NA,NA
+365,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",365,"Oriental","Comarca","Comarca",NA,NA
+366,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",366,"Rio Mua","Comarca","Comarca",NA,NA
+367,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",367,"Valle de Ricote","Comarca","Comarca",NA,NA
+368,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",368,"Vega Alta","Comarca","Comarca",NA,NA
+369,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia",369,"Vega Media","Comarca","Comarca",NA,NA
