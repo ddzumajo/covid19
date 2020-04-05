@@ -2,7 +2,16 @@
 
 This repository contains an exploratory data analysis focused on the pandemic crisis caused by COVID-19.
 
-The aim is to show the evolution of the reported cases, deaths and recovered using the information of the new daily (cases, deaths or recovered), their cumulative sum and their variation rate (daily and cumulative).
+There are two directories, general-analysis and regional-analysis.
 
-Data is automatically extracted from the official source (epdata.es) when the user runs the notebook. After the processing stage, data with the calculated metrics is saved in the directory *data_output*.
+##  General analysis
+
+A general analysis is made based on deaths and cases (daily and accumulated). The [famous curve](https://www.nytimes.com/interactive/2020/04/03/world/coronavirus-flatten-the-curve-countries.html) for the Coronavirus is obtained from the available official data.  
+
+
+## Regional analysis
+
+From data about deaths, cases and population a regional analysis of Spain is presented. The main objetive of this analysis is to compare the evolution of the mortality and lethality foir the differente regions in Spain. Also, maps of mortality and lethality are presented in order to facililitate understanding and visualizartion. 
+
+
 
