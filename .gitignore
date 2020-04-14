@@ -1,5 +1,7 @@
 .idea/*
 .ipynb_checkpoints/*
+general-analysis/.ipynb_checkpoints/
+regional-analysis/.ipynb_checkpoints/
 .vscode/*
 .DS_Store
 .DS_Store?
